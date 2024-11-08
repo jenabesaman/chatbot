@@ -1,0 +1,11 @@
+# Ignore the vnv folder
+vnv/
+
+# Ignore the gpt4all folder
+gpt4all/
+
+# Ignore the .idea folder
+.idea/
+
+# Ignore the GPT4all.rar file
+GPT4all.rar
